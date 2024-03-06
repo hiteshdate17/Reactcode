@@ -1,0 +1,28 @@
+.client_wrapper{
+    padding: 0px;
+    /* border: 1px solid red; */
+}
+
+.client_top {
+    column-gap: 120px;
+    row-gap: 20px;
+}
+
+.client_top label{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+/* input,select{
+    min-height: 30px;
+    min-width: 150px;
+    border-radius: 8px;
+    padding: 4px 6px;
+    display: flex;
+} */
+
+.checkbox{
+    min-width: fit-content;
+    min-height: fit-content;
+    padding: 0;
+}
